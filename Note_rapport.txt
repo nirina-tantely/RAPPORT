@@ -1,0 +1,39 @@
+- Plan
+- Il manque des explicactions sur SERT ex: RIE, RIC, RI, ...
+- JavaFX et ArcGIS
+- Contexte du projet et description du projet: ajouter un peu de généralisation d'abord
+- planning
+- Workflow des anos (KPI)
+- La FIV (deploiement)
+- 
+
+
+
+- SVN 
+
+- JavaFX et Swing cohabitation + POC
+
+- différence programme et régime +  workflow
+
+-  un petit paragraphe sur ESRI
+
+- ArcGIS (les produits)
+
+- ajouter dans missions :  redaction de document: fiv,....
+
+
+- IMPORTANT : Gongler la partie réalisation:
+	- Ajouter diagramme de classe (ou graphique) sur l'IHM SERT en generale 
+	- Ajouter diagramme de classe (ou graphique) sur Structure des tableaux JavaFX
+	- Ajouter diagramme de classe (ou graphique) sur composants graphiques personnalisés
+
+
+
+1.1	Contraintes et problèmes rencontrés
+Durant la réalisation du projet, j’ai été confronté à des quelques problèmes et difficultés. 
+-	Anomalies complexes, non reproduites
+-	 exemples : les anos 
+-	Java 7 et JavaFX
+-	Complexité niveau fonctionnel de SERT
+-	Mise en place de l’environnement de dev
+-	
