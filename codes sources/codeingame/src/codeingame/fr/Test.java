@@ -67,5 +67,27 @@ public class Test {
 		}
 		return m;
 	}
+	
+	
+	static int getPos2(int n){
+		
+		if(n == 0) return 0;
+		if(n == 1) return 1;
+		if(n == 2) return -1;
+		
+		int m2 = 1;
+		int m1 = -2;
+		int m = 0;
+		
+		int pos = -1;
+		
+		for(int i=3; i<=n; i++){
+			m = m1 - m2; 
+			m2 = m1;
+			m1 = m;
+			pos = pos + m;
+		}
+		return pos;
+	}
 
 }

@@ -5,7 +5,9 @@
 - planning
 - Workflow des anos (KPI)
 - La FIV (deploiement)
-- 
+- Ampiana kely ary @ architecture (resaka multiutilisateur, token, ...)
+- Resaka nomade
+- MXD
 
 
 
@@ -26,6 +28,11 @@
 	- Ajouter diagramme de classe (ou graphique) sur l'IHM SERT en generale 
 	- Ajouter diagramme de classe (ou graphique) sur Structure des tableaux JavaFX
 	- Ajouter diagramme de classe (ou graphique) sur composants graphiques personnalisés
+	
+
+- Mila jerena:
+	- Resaka authentification (token, session, sns ...)
+	
 
 
 
