@@ -8,6 +8,9 @@
 - Ampiana kely ary @ architecture (resaka multiutilisateur, token, ...)
 - Resaka nomade
 - MXD
+- Jenkins
+- Eclipse
+- Sonar
 
 
 
