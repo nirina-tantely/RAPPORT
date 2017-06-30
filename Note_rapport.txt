@@ -2,7 +2,7 @@
 - Il manque des explicactions sur SERT ex: RIE, RIC, RI, ...
 - JavaFX et ArcGIS
 - Contexte du projet et description du projet: ajouter un peu de généralisation d'abord
-- planning
+
 - Workflow des anos (KPI)
 - La FIV (deploiement)
 - Ampiana kely ary @ architecture (resaka multiutilisateur, token, ...)
@@ -27,11 +27,16 @@
 - ajouter dans missions :  redaction de document: fiv,....
 
 
-- IMPORTANT : Gongler la partie réalisation:
+- IMPORTANT : Gonfler la partie réalisation:
 	- Ajouter diagramme de classe (ou graphique) sur l'IHM SERT en generale 
 	- Ajouter diagramme de classe (ou graphique) sur Structure des tableaux JavaFX
 	- Ajouter diagramme de classe (ou graphique) sur composants graphiques personnalisés
+	- Jenkins
+	- Sonar
+	- Maven
+
 	
+- planning
 
 - Mila jerena:
 	- Resaka authentification (token, session, sns ...)
