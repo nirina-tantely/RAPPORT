@@ -1,0 +1,48 @@
+12 12
+
+exemples de projet clusterGIS : ..... SET
+
+capture d'ecran SERT dans la présentation de SERT
+
+enlever les chiffres % ou modifier le speech
+
+ESID 
+
+ESN et TMA
+
+dire les noms 
+
+SIG
+
+Conquilles
+
+améliorer l'affichage
+
+Analyse de l'existant à simplifier
+
+il manque arcgis server dans les outils
+
+docx4j
+
+remplacer le tableau par une liste
+
+TMA
+
+mettre en differente couleurs les trucs qui ont changés dans use cage
+
+Intégration avec l'équipe (dans le speech )
+
+les membres de l'equipe SERT
+
+
+
+Conclusion:
+ - mode naturel
+ - experience aquises
+ - proposition d'embauche
+ -
+
+Ajouter une architecture plus simple
+
+Slide 10 : à simplifier et à reformuler 
+ 
