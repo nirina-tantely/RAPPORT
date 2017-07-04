@@ -42,6 +42,8 @@
 	- Resaka authentification (token, session, sns ...)
 	
 
+	
+
 
 
 1.1	Contraintes et problèmes rencontrés
@@ -52,3 +54,11 @@ Durant la réalisation du projet, j’ai été confronté à des quelques probl�
 -	Complexité niveau fonctionnel de SERT
 -	Mise en place de l’environnement de dev
 -	
+
+
+
+- ERRATA:
+	- Maj des chiffres dans la presentation de Capgemini
+	- Capture ecran tableaux de bord redacteur de régime
+	- Abreviation : HP ALM, 
+
