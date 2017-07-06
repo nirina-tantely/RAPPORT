@@ -49,7 +49,7 @@
 1.1	Contraintes et problèmes rencontrés
 Durant la réalisation du projet, j’ai été confronté à des quelques problèmes et difficultés. 
 -	Anomalies complexes, non reproduites
--	 exemples : les anos 
+-	exemples : les anos 
 -	Java 7 et JavaFX
 -	Complexité niveau fonctionnel de SERT
 -	Mise en place de l’environnement de dev

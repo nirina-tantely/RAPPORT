@@ -8,7 +8,7 @@ enlever les chiffres % ou modifier le speech
 
 ESID 
 
-ESN et TMA
+ESN et TMA à expliquer
 
 dire les noms 
 
@@ -40,11 +40,29 @@ Conclusion:
  - mode naturel
  - experience aquises
  - proposition d'embauche
- -
+ 
 
-Ajouter une architecture plus simple
+Ajouter une architecture plus simple et planning
 
 Slide 10 : à simplifier et à reformuler 
+
+
+
+
+A reviser:
+
+- Projet TMA?
+- ArcGIS Sever VS ArcGIS runtime
+- - WebService REST
+- Zone UTM
+- Données raster et données vectorielles
+- Imprimer les abréviations
+- 
+- 
+Le protocole SMB (Server Message Block2) est un protocole permettant 
+le partage de ressources (fichiers et imprimantes) sur des réseaux locaux avec des PC sous Windows.
+
+
 
 
  
